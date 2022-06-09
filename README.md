@@ -1,4 +1,4 @@
-#drawing-app
+#kineticCss-loader
 
 ##Table of content
 * [About the project](#about-the-project)
